@@ -1,3 +1,6 @@
+[![GitHub stars](https://img.shields.io/github/stars/ItsAwSM/Python-for-Data-Analytics.svg)](https://github.com/ItsAwSM/Python-for-Data-Analytics/stargazers)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
 # Python-for-Data-Analytics
 This course will teach you only the relevant topics in Python for starting your career in Data Analytics. 
 
